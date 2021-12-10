@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # data
-.data/
-.progan_val.zip
+data/
+progan_val.zip
+origin/
 
